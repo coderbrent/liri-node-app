@@ -2,7 +2,7 @@
   "name": "liri-node-app",
   "version": "1.0.0",
   "description": "week 10 homework assignment",
-  "main": "index.js",
+  "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +22,7 @@
     "moment": "^2.24.0",
     "node-spotify-api": "^1.1.1",
     "omdb": "^0.8.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
